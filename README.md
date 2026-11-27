@@ -12,7 +12,7 @@ My biggest passion is traveling the world!
 
 ![](./imgs/prof.jpg){width="30%"}
 
-_A picture of myself in Paris_
+_A picture of me on a trip in Paris_
 
 My favourite place in Milan is Brera
 
