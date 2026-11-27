@@ -4,15 +4,11 @@
 
 **very short bio**
 
-*21 years old
-
-I am a student, currently doing Erasmus at the University of Milano. I am in my last year of my Bachelor in E-business.
+I am a 21 year old student, currently doing Erasmus at the University of Milano. I am in my last year of my Bachelor in E-business.
 
 My biggest passion is traveling the world!
 
-![](./imgs/prof.jpg){width="30%"}
-
-_A picture of me on a trip in Paris_
+<img src="imgs/prof.jpg" alt="A picture of myself on a trip in Paris" style="float: right; width: 25%; margin-left: 15px; margin-bottom: 10px;">
 
 My favourite place in Milan is Brera
 
